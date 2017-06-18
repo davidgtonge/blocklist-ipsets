@@ -314,7 +314,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 330647,
+		"ips": 330719,
 		"common": 129
 	},
 	{
@@ -1142,7 +1142,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 321,
+		"ips": 365,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 447,
 		"common": 1
 	},
 	{
@@ -1154,8 +1160,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 385,
-		"common": 2
+		"ips": 449,
+		"common": 6
 	},
 	{
 		"name": "xroxy",

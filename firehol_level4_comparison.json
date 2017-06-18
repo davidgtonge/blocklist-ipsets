@@ -644,8 +644,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 330647,
-		"common": 1295
+		"ips": 330719,
+		"common": 1296
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -2030,20 +2030,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 196,
-		"common": 51
+		"ips": 198,
+		"common": 49
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 321,
-		"common": 30
+		"ips": 365,
+		"common": 46
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 451,
-		"common": 6
+		"ips": 447,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_malware",
@@ -2054,13 +2054,13 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 235,
+		"ips": 232,
 		"common": 10
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 216,
+		"ips": 217,
 		"common": 1
 	},
 	{
@@ -2072,8 +2072,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 385,
-		"common": 79
+		"ips": 449,
+		"common": 93
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",

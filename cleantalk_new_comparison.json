@@ -146,8 +146,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 330647,
-		"common": 51
+		"ips": 330719,
+		"common": 54
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -627,6 +627,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 32763,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 198,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 447,
 		"common": 1
 	}
 ]
