@@ -6,6 +6,12 @@
 		"common": 8
 	},
 	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 4087,
@@ -26,7 +32,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37118,
+		"ips": 37051,
 		"common": 186
 	},
 	{
@@ -105,13 +111,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19336,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16860,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dragon_http",
@@ -170,7 +176,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46354,
+		"ips": 46281,
 		"common": 186
 	},
 	{
@@ -195,7 +201,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742654,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "gofferje_sip",
@@ -255,7 +261,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762620752,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level2",
@@ -327,7 +333,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "sorbs_dul",
