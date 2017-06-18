@@ -86,25 +86,31 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6954,
+		"ips": 6962,
 		"common": 1
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1093,
-		"common": 9
+		"ips": 1088,
+		"common": 10
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15163,
-		"common": 295
+		"ips": 15152,
+		"common": 294
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5128,
+		"ips": 5123,
 		"common": 102
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334266,
+		"ips": 334282,
 		"common": 1021
 	},
 	{
@@ -236,8 +242,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36901,
-		"common": 389
+		"ips": 36898,
+		"common": 390
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -248,13 +254,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51927,
+		"ips": 51877,
 		"common": 1607
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51652,
+		"ips": 51691,
 		"common": 62
 	},
 	{
@@ -266,8 +272,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615231,
-		"common": 298
+		"ips": 9615220,
+		"common": 297
 	},
 	{
 		"name": "firehol_proxies",
@@ -296,7 +302,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1699,
+		"ips": 1752,
 		"common": 5
 	},
 	{
@@ -723,12 +729,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2136,
+		"ips": 2139,
 		"common": 96
 	},
 	{
@@ -740,7 +746,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 13141,
+		"ips": 13130,
 		"common": 138
 	},
 	{
@@ -788,8 +794,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 612,
-		"common": 35
+		"ips": 606,
+		"common": 34
 	},
 	{
 		"name": "sslproxies_30d",
