@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37695,
+		"ips": 37685,
 		"common": 3
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615118,
+		"ips": 9615109,
 		"common": 471
 	},
 	{
@@ -554,8 +554,14 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 365,
+		"ips": 364,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 3
 	},
 	{
 		"name": "voipbl",

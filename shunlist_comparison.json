@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37695,
+		"ips": 37685,
 		"common": 7
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334735,
+		"ips": 334751,
 		"common": 3
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615118,
+		"ips": 9615109,
 		"common": 36
 	},
 	{
@@ -710,8 +710,14 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 234,
+		"ips": 229,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
