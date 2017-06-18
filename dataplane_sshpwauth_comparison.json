@@ -344,13 +344,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334522,
+		"ips": 334539,
 		"common": 76
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311883,
+		"ips": 311881,
 		"common": 108
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653159160,
+		"ips": 653159161,
 		"common": 26
 	},
 	{
@@ -470,14 +470,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129277,
+		"ips": 129288,
 		"common": 746
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615189,
-		"common": 1211
+		"ips": 9615192,
+		"common": 1213
 	},
 	{
 		"name": "firehol_proxies",
@@ -524,8 +524,8 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20140,
-		"common": 750
+		"ips": 20143,
+		"common": 752
 	},
 	{
 		"name": "hphosts_fsa",
@@ -1070,20 +1070,26 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 355,
+		"ips": 379,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 365,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 416,
-		"common": 201
+		"ips": 449,
+		"common": 217
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 447,
-		"common": 8
+		"common": 3
 	},
 	{
 		"name": "voipbl",

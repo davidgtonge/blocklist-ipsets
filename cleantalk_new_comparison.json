@@ -164,7 +164,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334522,
+		"ips": 334539,
 		"common": 86
 	},
 	{
@@ -206,13 +206,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129277,
+		"ips": 129288,
 		"common": 12
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615189,
+		"ips": 9615192,
 		"common": 47
 	},
 	{
@@ -554,7 +554,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 200,
+		"ips": 213,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 379,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 365,
+		"common": 1
 	}
 ]

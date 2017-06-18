@@ -146,13 +146,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334522,
+		"ips": 334539,
 		"common": 47
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311883,
+		"ips": 311881,
 		"common": 77
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129277,
+		"ips": 129288,
 		"common": 12
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615189,
+		"ips": 9615192,
 		"common": 24
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20140,
+		"ips": 20143,
 		"common": 3
 	},
 	{
@@ -562,6 +562,12 @@
 		"category": "reputation",
 		"ips": 32763,
 		"common": 9
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
