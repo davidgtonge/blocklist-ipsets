@@ -9,24 +9,30 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 5138,
+		"common": 2
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 1857,
 		"common": 1
 	},
 	{
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 11,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36817,
-		"common": 185
+		"ips": 36705,
+		"common": 186
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37689,
+		"ips": 37686,
 		"common": 46
 	},
 	{
@@ -44,19 +50,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 103072,
+		"ips": 103090,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 59523,
+		"ips": 59524,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 129976,
+		"ips": 130006,
 		"common": 1
 	},
 	{
@@ -87,7 +93,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 408,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -152,14 +158,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 251616,
+		"ips": 251639,
 		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46061,
-		"common": 185
+		"ips": 45952,
+		"common": 186
 	},
 	{
 		"name": "firehol_level3",
@@ -170,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615143,
+		"ips": 9615144,
 		"common": 53
 	},
 	{
@@ -189,12 +195,12 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095882,
-		"common": 24
+		"common": 26
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2175,
+		"ips": 2177,
 		"common": 1
 	},
 	{
@@ -381,7 +387,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 32763,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -399,6 +405,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28053,
-		"common": 58
+		"common": 59
 	}
 ]
