@@ -134,8 +134,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 226,
-		"common": 40
+		"ips": 242,
+		"common": 48
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -332,8 +332,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6973,
-		"common": 1122
+		"ips": 6982,
+		"common": 1118
 	},
 	{
 		"name": "bogons",
@@ -342,21 +342,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 45,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1024,
+		"ips": 982,
 		"common": 41
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15136,
+		"ips": 15132,
 		"common": 109
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5124,
+		"ips": 5138,
 		"common": 76
 	},
 	{
@@ -392,7 +398,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 16610,
+		"ips": 16706,
 		"common": 94
 	},
 	{
@@ -560,7 +566,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 335200,
+		"ips": 335201,
 		"common": 240
 	},
 	{
@@ -626,7 +632,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 843,
+		"ips": 842,
 		"common": 2
 	},
 	{
@@ -788,7 +794,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37142,
+		"ips": 37140,
 		"common": 126
 	},
 	{
@@ -800,8 +806,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52016,
-		"common": 1166
+		"ips": 51956,
+		"common": 1159
 	},
 	{
 		"name": "firehol_level1",
@@ -812,19 +818,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46281,
+		"ips": 46293,
 		"common": 144
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127962,
+		"ips": 128055,
 		"common": 689
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615071,
+		"ips": 9615066,
 		"common": 1395
 	},
 	{
@@ -872,7 +878,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2145,
+		"ips": 2158,
 		"common": 34
 	},
 	{
@@ -1496,7 +1502,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2008,
+		"ips": 2002,
 		"common": 3
 	},
 	{
@@ -1508,7 +1514,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12751,
+		"ips": 12752,
 		"common": 3
 	},
 	{
