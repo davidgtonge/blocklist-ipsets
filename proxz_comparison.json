@@ -1,5 +1,11 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 37271,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 37667,
@@ -102,6 +108,12 @@
 		"common": 26
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 46467,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 127705,
@@ -170,7 +182,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 17783,
+		"ips": 17865,
 		"common": 2
 	},
 	{
