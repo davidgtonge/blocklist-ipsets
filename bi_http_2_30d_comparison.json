@@ -728,20 +728,20 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 43,
+		"ips": 45,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 228,
-		"common": 10
+		"ips": 229,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 428,
-		"common": 2
+		"ips": 430,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -752,14 +752,20 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 189,
-		"common": 3
+		"ips": 185,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 226,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
