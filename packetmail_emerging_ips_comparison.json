@@ -48,6 +48,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 37118,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 226,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 37642,
@@ -242,8 +254,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46288,
-		"common": 6
+		"ips": 46349,
+		"common": 7
 	},
 	{
 		"name": "firehol_level3",
@@ -578,7 +590,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 28004,
+		"ips": 28053,
 		"common": 1
 	},
 	{
