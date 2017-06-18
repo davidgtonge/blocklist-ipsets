@@ -20,8 +20,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37749,
-		"common": 16
+		"ips": 37936,
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -44,19 +44,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1030,
+		"ips": 1016,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15112,
+		"ips": 15116,
 		"common": 63
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5087,
+		"ips": 5090,
 		"common": 26
 	},
 	{
@@ -152,31 +152,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52012,
+		"ips": 52028,
 		"common": 315
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46894,
-		"common": 16
+		"ips": 47083,
+		"common": 17
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127855,
+		"ips": 127601,
 		"common": 7
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615160,
+		"ips": 9615164,
 		"common": 69
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38738,
+		"ips": 38725,
 		"common": 318
 	},
 	{
@@ -426,21 +426,27 @@
 		"common": 68
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2092,
+		"ips": 2093,
 		"common": 13
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23181,
+		"ips": 23167,
 		"common": 43
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12933,
+		"ips": 12930,
 		"common": 18
 	},
 	{
@@ -483,7 +489,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sslproxies_1d",
@@ -494,13 +500,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4073,
+		"ips": 4072,
 		"common": 61
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1543,
+		"ips": 1541,
 		"common": 28
 	},
 	{
