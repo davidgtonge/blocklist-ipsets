@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37691,
+		"ips": 37685,
 		"common": 105
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 333891,
+		"ips": 333908,
 		"common": 1183
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615135,
+		"ips": 9615130,
 		"common": 997
 	},
 	{
@@ -1024,6 +1024,18 @@
 		"category": "reputation",
 		"ips": 32763,
 		"common": 5
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 355,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 434,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
