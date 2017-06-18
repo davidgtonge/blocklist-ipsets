@@ -926,7 +926,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615124,
+		"ips": 9615131,
 		"common": 50498
 	},
 	{
@@ -1263,7 +1263,7 @@
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
-		"common": 57
+		"common": 56
 	},
 	{
 		"name": "iw_spamlist",
@@ -1674,9 +1674,15 @@
 		"common": 289
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 7
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2183,
+		"ips": 2170,
 		"common": 109
 	},
 	{
@@ -1688,7 +1694,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 13219,
+		"ips": 13220,
 		"common": 233
 	},
 	{
@@ -1761,12 +1767,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 23
+		"common": 21
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 611,
+		"ips": 610,
 		"common": 88
 	},
 	{
@@ -1832,8 +1838,8 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 13120,
-		"common": 1337
+		"ips": 13125,
+		"common": 1305
 	},
 	{
 		"name": "talosintel_ipfilter",
