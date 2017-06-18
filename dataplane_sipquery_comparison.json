@@ -39,7 +39,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 5138,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -57,7 +57,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 121,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -194,7 +194,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 464,
+		"ips": 465,
 		"common": 41
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52025,
+		"ips": 52024,
 		"common": 2
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127695,
+		"ips": 127701,
 		"common": 214
 	},
 	{
@@ -302,20 +302,20 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38730,
+		"ips": 38729,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29792,
+		"ips": 29790,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742654,
-		"common": 99
+		"common": 100
 	},
 	{
 		"name": "gofferje_sip",
@@ -423,7 +423,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -435,7 +435,7 @@
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "packetmail",
@@ -459,7 +459,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 91
+		"common": 92
 	},
 	{
 		"name": "shunlist",
@@ -615,6 +615,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28004,
-		"common": 235
+		"common": 236
 	}
 ]
