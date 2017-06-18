@@ -14,44 +14,44 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 820,
-		"common": 730
+		"ips": 819,
+		"common": 728
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 6155,
-		"common": 730
+		"ips": 6156,
+		"common": 728
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1756,
-		"common": 730
+		"ips": 1757,
+		"common": 728
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6153,
-		"common": 713
+		"ips": 6131,
+		"common": 710
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7474,
-		"common": 717
+		"ips": 7465,
+		"common": 715
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25800,
-		"common": 725
+		"ips": 25802,
+		"common": 723
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11750,
-		"common": 724
+		"ips": 11748,
+		"common": 722
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -70,18 +70,6 @@
 		"category": "anonymizers",
 		"ips": 6982,
 		"common": 19
-	},
-	{
-		"name": "bogons",
-		"category": "unroutable",
-		"ips": 592708608,
-		"common": 1
-	},
-	{
-		"name": "cidr_report_bogons",
-		"category": "unrouteable",
-		"ips": 601551304,
-		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
@@ -170,14 +158,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51957,
+		"ips": 51960,
 		"common": 20
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653159673,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
@@ -204,12 +192,6 @@
 		"common": 179
 	},
 	{
-		"name": "fullbogons",
-		"category": "unrouteable",
-		"ips": 627874888,
-		"common": 1
-	},
-	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095882,
@@ -231,13 +213,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 42
-	},
-	{
-		"name": "iblocklist_cidr_report_bogons",
-		"category": "unrouteable",
-		"ips": 601551304,
-		"common": 1
+		"common": 41
 	},
 	{
 		"name": "iblocklist_edu",
@@ -246,21 +222,9 @@
 		"common": 21
 	},
 	{
-		"name": "iblocklist_fornonlancomputers",
-		"category": "reputation",
-		"ips": 302055424,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_hijacked",
 		"category": "attacks",
 		"ips": 9145088,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_iana_private",
-		"category": "unroutable",
-		"ips": 51643638,
 		"common": 1
 	},
 	{
@@ -321,7 +285,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 69
+		"common": 70
 	},
 	{
 		"name": "iblocklist_level3",
