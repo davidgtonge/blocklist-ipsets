@@ -9,7 +9,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 4087,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -27,19 +27,25 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 38513,
-		"common": 181
+		"common": 187
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 161,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 37724,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1277,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "ciarmy",
@@ -87,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19432,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16979,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dragon_http",
@@ -105,13 +111,13 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 311879,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_7d",
@@ -147,19 +153,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 48650,
-		"common": 181
+		"common": 187
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129335,
-		"common": 13
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9615121,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "firehol_webclient",
@@ -180,10 +186,16 @@
 		"common": 27
 	},
 	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 20143,
+		"common": 2
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -237,7 +249,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -282,6 +294,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3083,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2164,
@@ -297,7 +315,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "sorbs_noserver",
@@ -354,6 +372,12 @@
 		"common": 3
 	},
 	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1681,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 32763,
@@ -369,6 +393,12 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 364,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 445,
 		"common": 1
 	},
 	{
