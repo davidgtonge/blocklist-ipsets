@@ -51,19 +51,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 37194,
-		"common": 967
+		"common": 968
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9392,
-		"common": 966
-	},
-	{
-		"name": "blocklist_de_ftp",
-		"category": "attacks",
-		"ips": 347,
-		"common": 1
+		"common": 968
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,8 +68,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37691,
-		"common": 799
+		"ips": 37685,
+		"common": 801
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -303,7 +297,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 46401,
-		"common": 967
+		"common": 968
 	},
 	{
 		"name": "firehol_level3",
@@ -314,8 +308,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615146,
-		"common": 815
+		"ips": 9615139,
+		"common": 817
 	},
 	{
 		"name": "firehol_webclient",
@@ -340,6 +334,12 @@
 		"category": "abuse",
 		"ips": 3534,
 		"common": 53
+	},
+	{
+		"name": "graphiclineweb",
+		"category": "abuse",
+		"ips": 330527,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -375,7 +375,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 28195,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -429,7 +429,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "iblocklist_level3",
@@ -567,7 +567,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 88
+		"common": 87
 	},
 	{
 		"name": "ransomware_feed",
@@ -710,19 +710,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 222,
-		"common": 19
+		"ips": 228,
+		"common": 20
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 369,
-		"common": 35
+		"ips": 428,
+		"common": 30
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 365,
+		"ips": 367,
 		"common": 9
 	},
 	{

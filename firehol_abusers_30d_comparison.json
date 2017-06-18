@@ -158,13 +158,13 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 725,
-		"common": 644
+		"ips": 731,
+		"common": 648
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 967,
+		"ips": 969,
 		"common": 292
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 220,
+		"ips": 221,
 		"common": 1
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37691,
-		"common": 4125
+		"ips": 37685,
+		"common": 4126
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -782,8 +782,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615146,
-		"common": 19365
+		"ips": 9615139,
+		"common": 19366
 	},
 	{
 		"name": "firehol_proxies",
@@ -1796,20 +1796,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 222,
-		"common": 69
+		"ips": 228,
+		"common": 71
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 369,
-		"common": 43
+		"ips": 428,
+		"common": 36
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 365,
-		"common": 30
+		"ips": 367,
+		"common": 21
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1820,25 +1820,31 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 203,
-		"common": 1
+		"ips": 189,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 427,
-		"common": 3
+		"ips": 442,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 443,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 202,
+		"ips": 196,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 70,
+		"ips": 72,
 		"common": 3
 	},
 	{
@@ -1846,6 +1852,12 @@
 		"category": "malware",
 		"ips": 201,
 		"common": 1
+	},
+	{
+		"name": "uscert_hidden_cobra",
+		"category": "attacks",
+		"ips": 627,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
