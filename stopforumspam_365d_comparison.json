@@ -146,62 +146,62 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 40300,
-		"common": 1664
+		"ips": 39586,
+		"common": 1645
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9312,
+		"ips": 9308,
 		"common": 479
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 744,
-		"common": 514
+		"ips": 739,
+		"common": 508
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 885,
+		"ips": 884,
 		"common": 236
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 340,
+		"ips": 339,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2665,
+		"ips": 2648,
 		"common": 74
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24553,
-		"common": 846
+		"ips": 23895,
+		"common": 833
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 222,
+		"ips": 220,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13410,
+		"ips": 13365,
 		"common": 51
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 160,
-		"common": 51
+		"ips": 159,
+		"common": 50
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -506,8 +506,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 334493,
-		"common": 23595
+		"ips": 334507,
+		"common": 23597
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -801,7 +801,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653159160,
-		"common": 9907
+		"common": 9908
 	},
 	{
 		"name": "firehol_level2",
@@ -1244,8 +1244,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13807,
-		"common": 259
+		"ips": 13915,
+		"common": 262
 	},
 	{
 		"name": "nt_malware_http",
@@ -1684,6 +1684,12 @@
 		"category": "reputation",
 		"ips": 764160,
 		"common": 55
+	},
+	{
+		"name": "sslbl",
+		"category": "malware",
+		"ips": 53,
+		"common": 1
 	},
 	{
 		"name": "sslbl_aggressive",

@@ -21,7 +21,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129276,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "firehol_webclient",
@@ -78,12 +78,6 @@
 		"common": 11
 	},
 	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
-		"common": 1
-	},
-	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
@@ -94,5 +88,11 @@
 		"category": "malware",
 		"ips": 2827,
 		"common": 53
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 536794,
+		"common": 1
 	}
 ]
