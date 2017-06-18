@@ -56,19 +56,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6055,
+		"ips": 6049,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7443,
+		"ips": 7442,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25795,
+		"ips": 25796,
 		"common": 1
 	},
 	{
@@ -80,20 +80,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36593,
-		"common": 605
+		"ips": 36364,
+		"common": 599
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9424,
-		"common": 128
+		"ips": 9417,
+		"common": 126
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 733,
-		"common": 11
+		"ips": 730,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -102,21 +102,27 @@
 		"common": 127
 	},
 	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 342,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2636,
-		"common": 38
+		"ips": 2611,
+		"common": 39
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20763,
-		"common": 462
+		"ips": 20607,
+		"common": 458
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13385,
+		"ips": 13325,
 		"common": 5
 	},
 	{
@@ -128,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37694,
+		"ips": 37703,
 		"common": 364
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 335382,
+		"ips": 335440,
 		"common": 1470
 	},
 	{
@@ -452,8 +458,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45858,
-		"common": 673
+		"ips": 45629,
+		"common": 667
 	},
 	{
 		"name": "firehol_level3",
@@ -464,7 +470,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615160,
+		"ips": 9615169,
 		"common": 693
 	},
 	{
@@ -824,8 +830,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 17994,
-		"common": 395
+		"ips": 17936,
+		"common": 402
 	},
 	{
 		"name": "nullsecure",
