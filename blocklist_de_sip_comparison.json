@@ -12,12 +12,6 @@
 		"common": 1
 	},
 	{
-		"name": "bbcan177_ms1",
-		"category": "malware",
-		"ips": 5268568,
-		"common": 1
-	},
-	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 3928,
@@ -50,26 +44,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45991,
+		"ips": 46014,
 		"common": 184
-	},
-	{
-		"name": "blocklist_de_strongips",
-		"category": "attacks",
-		"ips": 163,
-		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37927,
+		"ips": 37923,
 		"common": 53
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1287,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "ciarmy",
@@ -123,13 +111,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19516,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 17078,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dragon_http",
@@ -171,7 +159,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1256,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -182,19 +170,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55773,
+		"ips": 55793,
 		"common": 184
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129168,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615346,
+		"ips": 9615342,
 		"common": 62
 	},
 	{
@@ -214,12 +202,6 @@
 		"category": "attacks",
 		"ips": 1095879,
 		"common": 28
-	},
-	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1345,
-		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -297,7 +279,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -430,6 +412,12 @@
 		"category": "reputation",
 		"ips": 32763,
 		"common": 9
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 385,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
