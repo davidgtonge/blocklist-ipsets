@@ -266,14 +266,14 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6920,
+		"ips": 6918,
 		"common": 31
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 335440,
-		"common": 176
+		"ips": 335486,
+		"common": 177
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -332,20 +332,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36998,
+		"ips": 37035,
 		"common": 2371
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 251677,
+		"ips": 251704,
 		"common": 2384
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52001,
-		"common": 345
+		"ips": 52084,
+		"common": 346
 	},
 	{
 		"name": "firehol_level1",
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38760,
-		"common": 308
+		"ips": 38773,
+		"common": 309
 	},
 	{
 		"name": "firehol_webclient",
@@ -660,10 +660,28 @@
 		"common": 10
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 96,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1130,
-		"common": 8
+		"ips": 1166,
+		"common": 9
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 313,
+		"common": 1
 	},
 	{
 		"name": "php_harvesters_30d",
@@ -830,26 +848,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
+		"ips": 144,
 		"common": 8
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 410,
-		"common": 18
+		"ips": 433,
+		"common": 23
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4493,
-		"common": 113
+		"ips": 4500,
+		"common": 116
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1659,
-		"common": 62
+		"ips": 1679,
+		"common": 67
 	},
 	{
 		"name": "sblam",
@@ -1082,8 +1100,8 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 58,
-		"common": 3
+		"ips": 56,
+		"common": 2
 	},
 	{
 		"name": "xroxy_1d",
