@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 1861,
-		"common": 2
+		"ips": 2143,
+		"common": 4
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41678,
+		"ips": 41672,
 		"common": 3
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19032,
+		"ips": 19022,
 		"common": 2
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337317,
+		"ips": 337329,
 		"common": 76
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 126893,
+		"ips": 126924,
 		"common": 16
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127323,
+		"ips": 127330,
 		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619146,
+		"ips": 9619143,
 		"common": 39
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29834,
+		"ips": 29832,
 		"common": 4
 	},
 	{
@@ -556,6 +556,12 @@
 		"category": "abuse",
 		"ips": 7348,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38940,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -842,7 +848,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 11425,
+		"ips": 11432,
 		"common": 3
 	},
 	{

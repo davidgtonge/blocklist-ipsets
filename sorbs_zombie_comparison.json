@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41678,
+		"ips": 41672,
 		"common": 2
 	},
 	{
@@ -26,7 +26,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337317,
+		"ips": 337329,
 		"common": 1
 	},
 	{
@@ -62,19 +62,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653159670,
+		"ips": 653159667,
 		"common": 723968
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127323,
+		"ips": 127330,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619146,
+		"ips": 9619143,
 		"common": 527364
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29834,
+		"ips": 29832,
 		"common": 2
 	},
 	{
@@ -160,6 +160,12 @@
 		"category": "abuse",
 		"ips": 7348,
 		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38940,
+		"common": 1
 	},
 	{
 		"name": "packetmail",
