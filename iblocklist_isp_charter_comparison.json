@@ -75,24 +75,24 @@
 		"name": "bitcoin_nodes",
 		"category": "organizations",
 		"ips": 6162,
-		"common": 41
+		"common": 39
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7585,
+		"ips": 7577,
 		"common": 52
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25822,
+		"ips": 25820,
 		"common": 156
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11717,
+		"ips": 11719,
 		"common": 80
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41803,
+		"ips": 41770,
 		"common": 38
 	},
 	{
@@ -216,27 +216,33 @@
 		"common": 4
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2568,
+		"common": 2
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29151,
-		"common": 26
+		"ips": 29096,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 104569,
-		"common": 102
+		"ips": 104582,
+		"common": 103
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60297,
-		"common": 59
+		"ips": 60307,
+		"common": 60
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1188,
+		"ips": 1186,
 		"common": 2
 	},
 	{
@@ -248,26 +254,32 @@
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5994,
+		"ips": 5991,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34103,
-		"common": 26
+		"ips": 34009,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 132377,
-		"common": 102
+		"ips": 132418,
+		"common": 103
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74987,
-		"common": 59
+		"ips": 75012,
+		"common": 60
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -296,13 +308,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 18950,
+		"ips": 18917,
 		"common": 18
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16517,
+		"ips": 16493,
 		"common": 16
 	},
 	{
@@ -326,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337634,
+		"ips": 337642,
 		"common": 379
 	},
 	{
@@ -488,14 +500,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37380,
-		"common": 29
+		"ips": 37325,
+		"common": 30
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 252784,
-		"common": 195
+		"ips": 252809,
+		"common": 196
 	},
 	{
 		"name": "firehol_anonymous",
@@ -524,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619303,
+		"ips": 9619271,
 		"common": 153
 	},
 	{
