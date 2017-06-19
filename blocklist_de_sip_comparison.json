@@ -8,7 +8,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 642,
+		"ips": 640,
 		"common": 1
 	},
 	{
@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34563,
+		"ips": 34643,
 		"common": 167
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41652,
-		"common": 52
+		"ips": 41657,
+		"common": 53
 	},
 	{
 		"name": "ciarmy",
@@ -56,25 +56,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 104392,
+		"ips": 104408,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60200,
+		"ips": 60220,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 132113,
+		"ips": 132136,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74911,
+		"ips": 74937,
 		"common": 1
 	},
 	{
@@ -99,7 +99,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 391,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -146,14 +146,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 253076,
+		"ips": 253091,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 44426,
-		"common": 167
+		"common": 166
 	},
 	{
 		"name": "firehol_level3",
@@ -164,13 +164,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619126,
-		"common": 59
+		"ips": 9619132,
+		"common": 60
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29832,
+		"ips": 29831,
 		"common": 10
 	},
 	{
@@ -294,12 +294,6 @@
 		"common": 5
 	},
 	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 38659,
-		"common": 1
-	},
-	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3196,
@@ -327,7 +321,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 16
+		"common": 18
 	},
 	{
 		"name": "sorbs_noserver",
@@ -351,7 +345,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -363,6 +357,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28053,
-		"common": 46
+		"common": 45
 	}
 ]
