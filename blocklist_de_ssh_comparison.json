@@ -68,14 +68,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34794,
-		"common": 13225
-	},
-	{
-		"name": "blocklist_de_apache",
-		"category": "attacks",
-		"ips": 9319,
-		"common": 1
+		"ips": 34815,
+		"common": 13236
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -123,7 +117,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1288,
-		"common": 422
+		"common": 421
 	},
 	{
 		"name": "ciarmy",
@@ -242,14 +236,14 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336717,
+		"ips": 336731,
 		"common": 14
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 311875,
-		"common": 103
+		"common": 102
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -321,7 +315,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1256,
-		"common": 317
+		"common": 316
 	},
 	{
 		"name": "et_dshield",
@@ -362,26 +356,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52030,
+		"ips": 52028,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653159658,
+		"ips": 653159672,
 		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44305,
-		"common": 13225
+		"ips": 44324,
+		"common": 13236
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 127219,
-		"common": 536
+		"common": 535
 	},
 	{
 		"name": "firehol_level4",
@@ -531,7 +525,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 322
+		"common": 323
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -597,7 +591,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1094181,
-		"common": 99
+		"common": 98
 	},
 	{
 		"name": "myip",
@@ -705,7 +699,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1476
+		"common": 1477
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -717,19 +711,19 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 88
+		"common": 89
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 60
+		"common": 59
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 205
+		"common": 204
 	},
 	{
 		"name": "spamhaus_drop",
@@ -795,7 +789,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 13125,
-		"common": 221
+		"common": 220
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -867,7 +861,7 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 446,
-		"common": 301
+		"common": 300
 	},
 	{
 		"name": "urandomusto_telnet",
