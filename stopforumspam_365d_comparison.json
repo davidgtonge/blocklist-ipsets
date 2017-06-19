@@ -104,7 +104,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 834,
+		"ips": 835,
 		"common": 2
 	},
 	{
@@ -116,31 +116,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 1386,
+		"ips": 1385,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6153,
+		"ips": 6164,
 		"common": 23
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7584,
+		"ips": 7591,
 		"common": 26
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25820,
+		"ips": 25822,
 		"common": 81
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11716,
+		"ips": 11717,
 		"common": 47
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41780,
+		"ips": 41779,
 		"common": 2114
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6961,
-		"common": 730
+		"ips": 6965,
+		"common": 732
 	},
 	{
 		"name": "bogons",
@@ -254,26 +254,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 26,
-		"common": 20
+		"ips": 31,
+		"common": 23
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1141,
-		"common": 872
+		"ips": 1156,
+		"common": 880
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15212,
-		"common": 10763
+		"ips": 15219,
+		"common": 10764
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5137,
-		"common": 3727
+		"ips": 5142,
+		"common": 3728
 	},
 	{
 		"name": "botvrij_dst",
@@ -440,13 +440,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 195,
 		"common": 1
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 89,
 		"common": 1
 	},
 	{
@@ -458,8 +458,14 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 389,
+		"ips": 386,
 		"common": 4
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 89,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -476,14 +482,14 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 448,
 		"common": 22
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6957,
-		"common": 731
+		"ips": 6962,
+		"common": 732
 	},
 	{
 		"name": "dragon_http",
@@ -500,8 +506,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337678,
-		"common": 23884
+		"ips": 337692,
+		"common": 23885
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -555,7 +561,7 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dshield_1d",
@@ -578,7 +584,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 848,
+		"ips": 847,
 		"common": 12
 	},
 	{
@@ -776,8 +782,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37441,
-		"common": 21256
+		"ips": 37445,
+		"common": 21257
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -788,32 +794,32 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52153,
-		"common": 9671
+		"ips": 52095,
+		"common": 9669
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653152255,
-		"common": 9885
+		"common": 9886
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44933,
-		"common": 1885
+		"ips": 44940,
+		"common": 1886
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125735,
+		"ips": 125734,
 		"common": 2295
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619278,
-		"common": 16278
+		"ips": 9619284,
+		"common": 16279
 	},
 	{
 		"name": "firehol_proxies",
@@ -860,8 +866,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1796,
-		"common": 235
+		"ips": 1802,
+		"common": 236
 	},
 	{
 		"name": "haley_ssh",
@@ -1238,8 +1244,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37770,
-		"common": 398
+		"ips": 37609,
+		"common": 393
 	},
 	{
 		"name": "nt_malware_http",
