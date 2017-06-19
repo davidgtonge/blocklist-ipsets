@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 268,
+		"ips": 267,
 		"common": 2
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38229,
+		"ips": 38232,
 		"common": 1
 	},
 	{
@@ -140,25 +140,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 103857,
+		"ips": 103876,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60023,
+		"ips": 59977,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 131248,
+		"ips": 131272,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74806,
+		"ips": 74751,
 		"common": 2
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 252417,
+		"ips": 252434,
 		"common": 3
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42863,
+		"ips": 42871,
 		"common": 17
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615751,
+		"ips": 9615768,
 		"common": 11
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2569,
+		"ips": 2578,
 		"common": 6
 	},
 	{
@@ -594,33 +594,45 @@
 		"common": 26
 	},
 	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 231,
+		"ips": 227,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 389,
+		"ips": 340,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 122,
 		"common": 3
 	},
 	{
-		"name": "urandomusto_ssh",
+		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 446,
+		"ips": 211,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 441,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 74,
+		"ips": 78,
 		"common": 1
 	},
 	{

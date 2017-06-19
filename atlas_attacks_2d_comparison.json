@@ -104,7 +104,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337002,
+		"ips": 337007,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42863,
+		"ips": 42871,
 		"common": 1
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615751,
+		"ips": 9615768,
 		"common": 2
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2569,
+		"ips": 2578,
 		"common": 1
 	},
 	{
@@ -224,19 +224,25 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 48,
+		"ips": 50,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 122,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 92,
+		"ips": 98,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 193,
 		"common": 1
 	}
 ]
