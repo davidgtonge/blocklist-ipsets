@@ -104,7 +104,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25800,
+		"ips": 25799,
 		"common": 1
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38271,
+		"ips": 38226,
 		"common": 7
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1168,
+		"ips": 1178,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15223,
+		"ips": 15233,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5167,
+		"ips": 5171,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337185,
+		"ips": 337192,
 		"common": 4
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 17664,
+		"ips": 16896,
 		"common": 103
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35988,
+		"ips": 35993,
 		"common": 5
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42355,
+		"ips": 42336,
 		"common": 255
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615826,
+		"ips": 9615792,
 		"common": 39
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1812,
-		"common": 67
+		"ips": 1787,
+		"common": 68
 	},
 	{
 		"name": "haley_ssh",
@@ -646,6 +646,12 @@
 		"category": "spam",
 		"ips": 1094181,
 		"common": 33
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38844,
+		"common": 2
 	},
 	{
 		"name": "nt_ssh_7d",
