@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41650,
+		"ips": 41662,
 		"common": 233
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337301,
+		"ips": 337307,
 		"common": 15
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 126821,
+		"ips": 126847,
 		"common": 7
 	},
 	{
@@ -554,13 +554,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127330,
-		"common": 67
+		"ips": 127323,
+		"common": 68
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619118,
+		"ips": 9619130,
 		"common": 1625
 	},
 	{
@@ -948,6 +948,12 @@
 		"common": 62
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38956,
+		"common": 2
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -1238,8 +1244,8 @@
 	{
 		"name": "vxvault",
 		"category": "malware",
-		"ips": 77,
-		"common": 19
+		"ips": 70,
+		"common": 20
 	},
 	{
 		"name": "xforce_bccs",

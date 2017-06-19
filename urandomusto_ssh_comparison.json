@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41650,
+		"ips": 41662,
 		"common": 16
 	},
 	{
@@ -154,6 +154,12 @@
 		"category": "attacks",
 		"ips": 14858,
 		"common": 13
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 195,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -272,13 +278,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127330,
+		"ips": 127323,
 		"common": 53
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619118,
+		"ips": 9619130,
 		"common": 47
 	},
 	{
