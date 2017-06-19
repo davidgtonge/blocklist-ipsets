@@ -74,13 +74,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25784,
+		"ips": 25785,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11708,
+		"ips": 11709,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37898,
+		"ips": 37894,
 		"common": 16
 	},
 	{
@@ -152,26 +152,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6911,
+		"ips": 6886,
 		"common": 2
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 61,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1014,
-		"common": 2
+		"ips": 1018,
+		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15177,
-		"common": 37
+		"ips": 15191,
+		"common": 38
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5113,
-		"common": 11
+		"ips": 5115,
+		"common": 12
 	},
 	{
 		"name": "chaosreigns_iprep0",
@@ -320,7 +326,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 410,
 		"common": 1
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6874,
+		"ips": 6883,
 		"common": 2
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336418,
+		"ips": 336427,
 		"common": 59
 	},
 	{
@@ -554,7 +560,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35495,
+		"ips": 35500,
 		"common": 281
 	},
 	{
@@ -566,7 +572,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52039,
+		"ips": 51947,
 		"common": 266
 	},
 	{
@@ -578,7 +584,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45222,
+		"ips": 45241,
 		"common": 3
 	},
 	{
@@ -590,8 +596,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615387,
-		"common": 92520
+		"ips": 9615396,
+		"common": 92521
 	},
 	{
 		"name": "firehol_proxies",
@@ -932,7 +938,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 18407,
+		"ips": 18092,
 		"common": 2
 	},
 	{
