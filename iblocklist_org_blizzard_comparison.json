@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 641,
+		"ips": 642,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41613,
+		"ips": 41620,
 		"common": 7
 	},
 	{
@@ -198,51 +198,63 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2492,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 28607,
+		"ips": 28680,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 104196,
+		"ips": 104239,
 		"common": 33
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60181,
+		"ips": 60169,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22377,
+		"ips": 22385,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5911,
+		"ips": 5918,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 33618,
+		"ips": 33700,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 131817,
+		"ips": 131882,
 		"common": 32
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74975,
+		"ips": 74956,
 		"common": 18
 	},
 	{
@@ -290,7 +302,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337277,
+		"ips": 337282,
 		"common": 137
 	},
 	{
@@ -332,13 +344,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36569,
+		"ips": 36627,
 		"common": 9
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 252831,
+		"ips": 252878,
 		"common": 75
 	},
 	{
@@ -362,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619083,
+		"ips": 9619090,
 		"common": 81
 	},
 	{
@@ -482,8 +494,8 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762689705,
-		"common": 705110
+		"ips": 762689830,
+		"common": 705390
 	},
 	{
 		"name": "iblocklist_level2",
