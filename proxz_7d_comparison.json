@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41819,
+		"ips": 41817,
 		"common": 49
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337793,
+		"ips": 337800,
 		"common": 250
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311895,
+		"ips": 311914,
 		"common": 42
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 126942,
+		"ips": 126943,
 		"common": 67
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619291,
+		"ips": 9619285,
 		"common": 216
 	},
 	{
@@ -636,9 +636,15 @@
 		"common": 2
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1841,
+		"ips": 1835,
 		"common": 32
 	},
 	{
@@ -692,7 +698,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 629,
+		"ips": 628,
 		"common": 27
 	},
 	{
