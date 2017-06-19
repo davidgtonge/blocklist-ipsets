@@ -15,13 +15,13 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 135
+		"common": 136
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 4254,
-		"common": 254
+		"common": 255
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36094,
-		"common": 13177
+		"ips": 36268,
+		"common": 13182
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -63,7 +63,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 41766,
-		"common": 328
+		"common": 332
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -99,7 +99,7 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1284,
-		"common": 416
+		"common": 418
 	},
 	{
 		"name": "ciarmy",
@@ -195,13 +195,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18917,
-		"common": 4658
+		"common": 4641
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16493,
-		"common": 4192
+		"common": 4173
 	},
 	{
 		"name": "dm_tor",
@@ -224,14 +224,14 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337707,
+		"ips": 337713,
 		"common": 15
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 311871,
-		"common": 102
+		"common": 103
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -315,7 +315,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1256,
-		"common": 307
+		"common": 308
 	},
 	{
 		"name": "et_dshield",
@@ -368,20 +368,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44940,
-		"common": 13177
+		"ips": 45113,
+		"common": 13182
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 125734,
-		"common": 536
+		"common": 538
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9619252,
-		"common": 902
+		"common": 906
 	},
 	{
 		"name": "firehol_proxies",
@@ -399,7 +399,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742724,
-		"common": 166
+		"common": 167
 	},
 	{
 		"name": "gofferje_sip",
@@ -459,7 +459,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 93
+		"common": 91
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -525,19 +525,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689830,
-		"common": 175
+		"common": 176
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 273
+		"common": 272
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 323
+		"common": 319
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -614,8 +614,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37609,
-		"common": 11
+		"ips": 37388,
+		"common": 16
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -633,7 +633,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3306,
-		"common": 224
+		"common": 227
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -663,7 +663,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 152
+		"common": 153
 	},
 	{
 		"name": "ransomware_rw",
@@ -705,7 +705,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1458
+		"common": 1457
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -723,7 +723,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "sorbs_web",
@@ -765,7 +765,7 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 288999,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -783,7 +783,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 536964,
-		"common": 57
+		"common": 56
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -855,7 +855,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 1830
+		"common": 1818
 	},
 	{
 		"name": "urandomusto_ftp",
