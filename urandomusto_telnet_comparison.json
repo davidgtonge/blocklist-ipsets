@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41822,
+		"ips": 41817,
 		"common": 2
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 193,
 		"common": 2
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619302,
+		"ips": 9619298,
 		"common": 3
 	},
 	{
@@ -328,6 +328,12 @@
 		"category": "spam",
 		"ips": 1094181,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 35793,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
