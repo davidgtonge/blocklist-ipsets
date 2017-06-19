@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 344,
+		"ips": 353,
 		"common": 12
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41745,
+		"ips": 41756,
 		"common": 1
 	},
 	{
@@ -104,19 +104,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1143,
+		"ips": 1147,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15203,
+		"ips": 15206,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5136,
+		"ips": 5140,
 		"common": 1
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37213,
+		"ips": 37216,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152248,
+		"ips": 653152255,
 		"common": 15
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619231,
+		"ips": 9619244,
 		"common": 31
 	},
 	{
@@ -352,6 +352,12 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 33
+	},
+	{
+		"name": "iblocklist_malc0de",
+		"category": "malware",
+		"ips": 66,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_rangetest",
