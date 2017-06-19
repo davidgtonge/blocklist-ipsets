@@ -44,14 +44,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36425,
+		"ips": 36367,
 		"common": 192
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 41819,
-		"common": 58
+		"common": 59
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1280,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -117,13 +123,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 19001,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16579,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dragon_http",
@@ -150,6 +156,12 @@
 		"common": 1
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1256,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 253075,
@@ -158,20 +170,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45019,
+		"ips": 44962,
 		"common": 192
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 125747,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9619300,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "firehol_webclient",
@@ -303,7 +315,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3306,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -315,7 +327,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2310,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -327,7 +339,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "sorbs_noserver",
@@ -360,12 +372,6 @@
 		"common": 13
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 369,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 178,
@@ -375,6 +381,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28098,
-		"common": 52
+		"common": 51
 	}
 ]
