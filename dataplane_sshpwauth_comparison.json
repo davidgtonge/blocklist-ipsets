@@ -86,13 +86,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36119,
-		"common": 4377
+		"ips": 36198,
+		"common": 4384
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9412,
+		"ips": 9413,
 		"common": 4
 	},
 	{
@@ -104,32 +104,32 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 985,
+		"ips": 984,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2578,
+		"ips": 2592,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20352,
+		"ips": 20372,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 225,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13347,
-		"common": 4365
+		"ips": 13394,
+		"common": 4372
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37805,
+		"ips": 37824,
 		"common": 373
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336065,
+		"ips": 336103,
 		"common": 75
 	},
 	{
@@ -452,20 +452,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51997,
+		"ips": 51998,
 		"common": 247
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653159692,
+		"ips": 653159691,
 		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45173,
-		"common": 4395
+		"ips": 45252,
+		"common": 4402
 	},
 	{
 		"name": "firehol_level3",
@@ -476,19 +476,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615273,
+		"ips": 9615292,
 		"common": 1213
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38791,
+		"ips": 38792,
 		"common": 83
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29792,
+		"ips": 29791,
 		"common": 94
 	},
 	{
@@ -770,8 +770,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 18373,
-		"common": 13
+		"ips": 18247,
+		"common": 8
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -890,7 +890,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11850,
+		"ips": 11849,
 		"common": 1
 	},
 	{
