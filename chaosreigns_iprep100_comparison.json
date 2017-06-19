@@ -8,19 +8,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33451,
+		"ips": 33590,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2558,
+		"ips": 2565,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17880,
+		"ips": 17976,
 		"common": 2
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337068,
+		"ips": 337081,
 		"common": 1
 	},
 	{
@@ -116,13 +116,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41865,
+		"ips": 42004,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615785,
+		"ips": 9615797,
 		"common": 14
 	},
 	{
@@ -334,6 +334,12 @@
 		"category": "spam",
 		"ips": 1094181,
 		"common": 56
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39504,
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
