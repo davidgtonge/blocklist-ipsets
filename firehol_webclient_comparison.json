@@ -68,7 +68,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 97,
+		"ips": 102,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38222,
+		"ips": 38190,
 		"common": 1138
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336952,
+		"ips": 336958,
 		"common": 186
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52083,
+		"ips": 52082,
 		"common": 485
 	},
 	{
@@ -746,13 +746,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615748,
+		"ips": 9615717,
 		"common": 26416
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38819,
+		"ips": 38818,
 		"common": 463
 	},
 	{
@@ -1190,7 +1190,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2176,
+		"ips": 2184,
 		"common": 6
 	},
 	{
@@ -1440,21 +1440,27 @@
 		"common": 2828
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 583,
+		"ips": 577,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4136,
+		"ips": 4135,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1560,
+		"ips": 1554,
 		"common": 1
 	},
 	{
