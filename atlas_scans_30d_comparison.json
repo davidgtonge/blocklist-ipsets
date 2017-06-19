@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34183,
+		"ips": 34401,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9389,
+		"ips": 9406,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43031,
+		"ips": 43246,
 		"common": 4
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1801,
+		"ips": 1800,
 		"common": 1
 	},
 	{
@@ -424,6 +424,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 272,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
