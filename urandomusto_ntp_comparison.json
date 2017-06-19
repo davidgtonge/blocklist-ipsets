@@ -78,9 +78,15 @@
 		"common": 6
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36119,
+		"common": 2
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9419,
+		"ips": 9412,
 		"common": 2
 	},
 	{
@@ -248,19 +254,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 14843,
+		"ips": 45162,
 		"common": 36
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128137,
+		"ips": 128136,
 		"common": 47
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615250,
+		"ips": 9615266,
 		"common": 5
 	},
 	{
@@ -386,8 +392,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2167,
-		"common": 9
+		"ips": 2160,
+		"common": 8
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -470,13 +476,13 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 192,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 72,
+		"ips": 74,
 		"common": 2
 	},
 	{

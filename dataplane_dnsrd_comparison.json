@@ -78,21 +78,27 @@
 		"common": 23
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 36119,
+		"common": 4
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9419,
+		"ips": 9412,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 342,
 		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1282,
+		"ips": 1281,
 		"common": 1
 	},
 	{
@@ -176,7 +182,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336021,
+		"ips": 336037,
 		"common": 2
 	},
 	{
@@ -236,19 +242,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 14843,
-		"common": 84
+		"ips": 45162,
+		"common": 85
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 128137,
+		"ips": 128136,
 		"common": 155
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615250,
+		"ips": 9615266,
 		"common": 7
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2167,
-		"common": 26
+		"ips": 2160,
+		"common": 25
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -452,7 +458,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 217,
+		"ips": 211,
 		"common": 4
 	},
 	{
@@ -464,14 +470,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 192,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 72,
-		"common": 7
+		"ips": 74,
+		"common": 8
 	},
 	{
 		"name": "voipbl",
