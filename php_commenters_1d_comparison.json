@@ -8,7 +8,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 259,
+		"ips": 256,
 		"common": 7
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37900,
+		"ips": 37902,
 		"common": 10
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 26179,
+		"ips": 26222,
 		"common": 5
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6883,
+		"ips": 6877,
 		"common": 20
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 336455,
+		"ips": 336467,
 		"common": 8
 	},
 	{
@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 51946,
+		"ips": 52021,
 		"common": 31
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653159669,
+		"ips": 653159665,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44967,
+		"ips": 44998,
 		"common": 38
 	},
 	{
@@ -338,19 +338,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615402,
+		"ips": 9615437,
 		"common": 66
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38807,
+		"ips": 38809,
 		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29790,
+		"ips": 29833,
 		"common": 13
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2382,
+		"ips": 2419,
 		"common": 4
 	},
 	{
@@ -790,6 +790,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 9
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "xroxy_1d",

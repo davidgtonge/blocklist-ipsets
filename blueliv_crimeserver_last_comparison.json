@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 37900,
+		"ips": 37902,
 		"common": 1
 	},
 	{
@@ -90,12 +90,6 @@
 		"common": 2
 	},
 	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 653159669,
-		"common": 1
-	},
-	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 127180,
@@ -104,13 +98,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9615402,
+		"ips": 9615437,
 		"common": 9
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29790,
+		"ips": 29833,
 		"common": 1
 	},
 	{
@@ -309,6 +303,12 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 377,
 		"common": 1
 	},
 	{
