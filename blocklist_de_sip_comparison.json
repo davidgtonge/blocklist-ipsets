@@ -26,13 +26,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34794,
-		"common": 164
+		"ips": 34587,
+		"common": 162
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 38047,
+		"ips": 38046,
 		"common": 42
 	},
 	{
@@ -93,12 +93,12 @@
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
 		"ips": 92,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19140,
+		"ips": 19116,
 		"common": 1
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44319,
-		"common": 164
+		"ips": 44111,
+		"common": 162
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 127257,
+		"ips": 127255,
 		"common": 9
 	},
 	{
@@ -165,7 +165,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095883,
-		"common": 20
+		"common": 18
 	},
 	{
 		"name": "greensnow",
@@ -261,19 +261,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1094181,
 		"common": 4
-	},
-	{
-		"name": "nullsecure",
-		"category": "reputation",
-		"ips": 29439,
-		"common": 1
 	},
 	{
 		"name": "packetmail",
@@ -327,7 +321,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -345,6 +339,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28053,
-		"common": 47
+		"common": 45
 	}
 ]
