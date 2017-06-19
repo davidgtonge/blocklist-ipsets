@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36445,
-		"common": 190
+		"ips": 36425,
+		"common": 192
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -105,7 +105,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 386,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -158,8 +158,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45038,
-		"common": 190
+		"ips": 45020,
+		"common": 192
 	},
 	{
 		"name": "firehol_level3",
@@ -249,7 +249,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689830,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level2",
@@ -303,7 +303,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3306,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -315,7 +315,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2263,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -360,6 +360,12 @@
 		"common": 13
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 369,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 178,
@@ -369,6 +375,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28098,
-		"common": 51
+		"common": 52
 	}
 ]
