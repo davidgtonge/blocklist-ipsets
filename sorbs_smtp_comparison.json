@@ -116,13 +116,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337732,
+		"ips": 337745,
 		"common": 10
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311875,
+		"ips": 311883,
 		"common": 5
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34742724,
+		"ips": 34742914,
 		"common": 114
 	},
 	{
@@ -538,6 +538,18 @@
 		"category": "attacks",
 		"ips": 28098,
 		"common": 2
+	},
+	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 60,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 117,
+		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
