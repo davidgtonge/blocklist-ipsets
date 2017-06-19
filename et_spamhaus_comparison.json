@@ -380,7 +380,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338043,
+		"ips": 338050,
 		"common": 109
 	},
 	{
@@ -530,19 +530,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38460,
+		"ips": 38484,
 		"common": 1040
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 253394,
+		"ips": 253380,
 		"common": 7166
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52056,
+		"ips": 52063,
 		"common": 22
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38892,
+		"ips": 38899,
 		"common": 14
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1266,
+		"ips": 1227,
 		"common": 3
 	},
 	{
@@ -998,7 +998,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23128,
+		"ips": 23127,
 		"common": 1
 	},
 	{
@@ -1166,25 +1166,37 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 229,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 352,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 369,
+		"ips": 367,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 214,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 166,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 81,
+		"ips": 84,
 		"common": 1
 	},
 	{

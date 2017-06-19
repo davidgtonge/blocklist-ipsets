@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38460,
+		"ips": 38484,
 		"common": 144
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 253394,
+		"ips": 253380,
 		"common": 185
 	},
 	{
@@ -566,8 +566,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 229,
 		"common": 65
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 367,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
