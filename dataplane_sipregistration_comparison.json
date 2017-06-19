@@ -56,8 +56,8 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 398,
-		"common": 7
+		"ips": 391,
+		"common": 3
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -99,7 +99,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095883,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "greensnow",
@@ -150,6 +150,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38864,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2184,
@@ -177,7 +183,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -189,6 +195,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28053,
-		"common": 40
+		"common": 39
 	}
 ]
