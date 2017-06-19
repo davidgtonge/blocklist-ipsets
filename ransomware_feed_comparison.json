@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41763,
+		"ips": 41780,
 		"common": 53
 	},
 	{
@@ -222,39 +222,51 @@
 		"common": 242
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2568,
+		"common": 3
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29102,
+		"ips": 29133,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 104574,
+		"ips": 104594,
 		"common": 46
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60291,
+		"ips": 60297,
 		"common": 30
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34016,
+		"ips": 34049,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 132421,
+		"ips": 132452,
 		"common": 52
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 74987,
+		"ips": 74995,
 		"common": 33
 	},
 	{
@@ -290,7 +302,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337672,
+		"ips": 337678,
 		"common": 4
 	},
 	{
@@ -380,13 +392,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37398,
+		"ips": 37441,
 		"common": 13
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 252803,
+		"ips": 252828,
 		"common": 60
 	},
 	{
@@ -410,20 +422,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619261,
+		"ips": 9619278,
 		"common": 341
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29884,
-		"common": 184
+		"ips": 29883,
+		"common": 183
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742724,
-		"common": 4120
+		"common": 4119
 	},
 	{
 		"name": "fullbogons",
@@ -465,7 +477,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25977,
-		"common": 3811
+		"common": 3810
 	},
 	{
 		"name": "hphosts_exp",
@@ -747,7 +759,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 754
+		"common": 753
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -764,8 +776,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 157,
-		"common": 157
+		"ips": 156,
+		"common": 156
 	},
 	{
 		"name": "ransomware_rw",
