@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34323,
+		"ips": 34162,
 		"common": 13
 	},
 	{
@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18740,
+		"ips": 18603,
 		"common": 8
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41672,
+		"ips": 41671,
 		"common": 13
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337336,
+		"ips": 337341,
 		"common": 76
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52042,
+		"ips": 52038,
 		"common": 197
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43085,
+		"ips": 42996,
 		"common": 13
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619143,
+		"ips": 9619142,
 		"common": 50
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38859,
+		"ips": 38855,
 		"common": 200
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38940,
-		"common": 1
+		"ips": 39016,
+		"common": 2
 	},
 	{
 		"name": "php_commenters",
@@ -444,21 +444,27 @@
 		"common": 49
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1865,
+		"ips": 1820,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23142,
+		"ips": 23138,
 		"common": 26
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 12070,
+		"ips": 12036,
 		"common": 12
 	},
 	{
