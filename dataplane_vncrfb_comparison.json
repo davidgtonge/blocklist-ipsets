@@ -242,7 +242,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 386,
+		"ips": 385,
 		"common": 49
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338785,
+		"ips": 338765,
 		"common": 4
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52140,
+		"ips": 52144,
 		"common": 9
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38925,
+		"ips": 38930,
 		"common": 8
 	},
 	{
@@ -405,7 +405,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34743034,
-		"common": 88
+		"common": 89
 	},
 	{
 		"name": "gofferje_sip",
@@ -441,7 +441,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -506,7 +506,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762689830,
+		"ips": 762690352,
 		"common": 26
 	},
 	{
@@ -580,6 +580,12 @@
 		"category": "abuse",
 		"ips": 7376,
 		"common": 4
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38503,
+		"common": 2
 	},
 	{
 		"name": "nullsecure",
@@ -663,7 +669,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 81
+		"common": 82
 	},
 	{
 		"name": "ri_web_proxies_1d",
@@ -698,19 +704,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1720,
+		"ips": 1727,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23085,
+		"ips": 23090,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 10937,
+		"ips": 10943,
 		"common": 4
 	},
 	{
@@ -812,7 +818,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 965,
+		"ips": 962,
 		"common": 4
 	},
 	{
@@ -837,7 +843,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 100
+		"common": 99
 	},
 	{
 		"name": "urandomusto_dns",
