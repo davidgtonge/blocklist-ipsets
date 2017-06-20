@@ -200,25 +200,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6130,
+		"ips": 6136,
 		"common": 27
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7574,
+		"ips": 7562,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25856,
+		"ips": 25859,
 		"common": 41
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11693,
+		"ips": 11695,
 		"common": 34
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 48069,
+		"ips": 48082,
 		"common": 66
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338222,
+		"ips": 338202,
 		"common": 240
 	},
 	{
@@ -590,7 +590,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49195,
+		"ips": 49205,
 		"common": 31
 	},
 	{
@@ -603,13 +603,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 65
+		"common": 61
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7168,
-		"common": 67
+		"ips": 7424,
+		"common": 68
 	},
 	{
 		"name": "dshield_30d",
@@ -620,8 +620,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 16384,
-		"common": 124
+		"ips": 16896,
+		"common": 127
 	},
 	{
 		"name": "dshield_top_1000",
@@ -806,25 +806,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152253,
-		"common": 489
+		"ips": 653152510,
+		"common": 485
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48221,
-		"common": 137
+		"ips": 48479,
+		"common": 138
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125381,
+		"ips": 125484,
 		"common": 690
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625458,
+		"ips": 9625471,
 		"common": 1397
 	},
 	{
@@ -1430,7 +1430,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5042,
+		"ips": 5041,
 		"common": 88
 	},
 	{
@@ -1706,8 +1706,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 299,
-		"common": 6
+		"ips": 289,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1718,7 +1718,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 183,
+		"ips": 181,
 		"common": 7
 	},
 	{
@@ -1728,15 +1728,9 @@
 		"common": 9
 	},
 	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 450,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 186,
 		"common": 13
 	},
 	{

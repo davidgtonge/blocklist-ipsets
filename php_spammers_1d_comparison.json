@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 48069,
+		"ips": 48082,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338222,
+		"ips": 338202,
 		"common": 21
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49195,
+		"ips": 49205,
 		"common": 9
 	},
 	{
@@ -188,19 +188,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48221,
+		"ips": 48479,
 		"common": 45
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125381,
+		"ips": 125484,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625458,
+		"ips": 9625471,
 		"common": 8
 	},
 	{
@@ -597,6 +597,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 9405,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 135,
 		"common": 1
 	}
 ]

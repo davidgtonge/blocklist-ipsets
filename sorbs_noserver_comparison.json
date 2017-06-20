@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6130,
-		"common": 92
+		"ips": 6136,
+		"common": 91
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7574,
+		"ips": 7562,
 		"common": 117
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25856,
+		"ips": 25859,
 		"common": 462
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11693,
+		"ips": 11695,
 		"common": 195
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 48069,
+		"ips": 48082,
 		"common": 930
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338222,
+		"ips": 338202,
 		"common": 2501
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49195,
+		"ips": 49205,
 		"common": 629
 	},
 	{
@@ -548,25 +548,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152253,
+		"ips": 653152510,
 		"common": 16
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48221,
+		"ips": 48479,
 		"common": 525
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125381,
+		"ips": 125484,
 		"common": 2044
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625458,
+		"ips": 9625471,
 		"common": 1660
 	},
 	{
@@ -944,7 +944,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5042,
+		"ips": 5041,
 		"common": 2
 	},
 	{
@@ -1200,10 +1200,10 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 299,
-		"common": 1
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 135,
+		"common": 42
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1212,10 +1212,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 228,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 450,
-		"common": 6
+		"common": 10
 	},
 	{
 		"name": "urandomusto_vnc",
