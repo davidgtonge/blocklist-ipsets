@@ -68,19 +68,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 40881,
+		"ips": 41170,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15275,
+		"ips": 15248,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 48182,
+		"ips": 48186,
 		"common": 2
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337590,
+		"ips": 337500,
 		"common": 2
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 17152,
+		"ips": 16896,
 		"common": 6
 	},
 	{
@@ -200,25 +200,25 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 255119,
+		"ips": 255152,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52237,
+		"ips": 52241,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152512,
+		"ips": 653130752,
 		"common": 21
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 50005,
+		"ips": 50292,
 		"common": 5
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625583,
+		"ips": 9625588,
 		"common": 111
 	},
 	{
@@ -508,6 +508,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 267,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
