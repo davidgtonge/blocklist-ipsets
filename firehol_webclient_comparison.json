@@ -321,36 +321,36 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2647,
-		"common": 5
+		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29829,
-		"common": 154
+		"ips": 29880,
+		"common": 152
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 105204,
+		"ips": 105221,
 		"common": 431
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60614,
-		"common": 286
+		"ips": 60644,
+		"common": 285
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22430,
+		"ips": 22427,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6070,
+		"ips": 6075,
 		"common": 5
 	},
 	{
@@ -363,25 +363,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 5
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34778,
-		"common": 176
+		"ips": 34827,
+		"common": 175
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 133450,
+		"ips": 133484,
 		"common": 586
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75315,
-		"common": 367
+		"ips": 75341,
+		"common": 366
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -452,7 +452,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338192,
+		"ips": 338198,
 		"common": 186
 	},
 	{
@@ -710,26 +710,26 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37078,
-		"common": 245
+		"ips": 37124,
+		"common": 244
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 253643,
+		"ips": 253660,
 		"common": 723
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52129,
+		"ips": 52131,
 		"common": 485
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 653152226,
-		"common": 741
+		"common": 743
 	},
 	{
 		"name": "firehol_level2",
@@ -752,14 +752,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38906,
+		"ips": 38908,
 		"common": 463
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742914,
-		"common": 2589
+		"common": 2591
 	},
 	{
 		"name": "fullbogons",
@@ -807,7 +807,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25977,
-		"common": 210
+		"common": 212
 	},
 	{
 		"name": "hphosts_exp",
@@ -885,7 +885,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 1389
+		"common": 1390
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -915,7 +915,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 338
+		"common": 339
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689830,
-		"common": 624
+		"common": 625
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1275,13 +1275,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1888
+		"common": 1889
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5039,
-		"common": 182
+		"common": 184
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1290,16 +1290,22 @@
 		"common": 2
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 7,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 155,
-		"common": 155
+		"ips": 157,
+		"common": 157
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11848,
-		"common": 128
+		"common": 130
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -1364,7 +1370,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23130,
+		"ips": 23132,
 		"common": 2
 	},
 	{
@@ -1436,7 +1442,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 641,
+		"ips": 640,
 		"common": 1
 	},
 	{
@@ -1587,7 +1593,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 201,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "voipbl",
