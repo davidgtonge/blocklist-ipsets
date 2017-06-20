@@ -20,49 +20,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 38540,
+		"ips": 38728,
 		"common": 154
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9396,
+		"ips": 9430,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 782,
+		"ips": 781,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 922,
+		"ips": 954,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2120,
+		"ips": 2098,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20940,
+		"ips": 21138,
 		"common": 151
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 166,
+		"ips": 165,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47014,
+		"ips": 47906,
 		"common": 4
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338805,
+		"ips": 338792,
 		"common": 93
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49193,
+		"ips": 49196,
 		"common": 36
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38158,
+		"ips": 38235,
 		"common": 144
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46861,
+		"ips": 47048,
 		"common": 154
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9624429,
+		"ips": 9625303,
 		"common": 18
 	},
 	{
@@ -386,8 +386,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38683,
-		"common": 5
+		"ips": 38572,
+		"common": 4
 	},
 	{
 		"name": "packetmail",
@@ -686,7 +686,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6179,
+		"ips": 6314,
 		"common": 13
 	},
 	{
@@ -748,6 +748,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 141,
+		"common": 2
 	},
 	{
 		"name": "xroxy_1d",
