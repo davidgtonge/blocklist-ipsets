@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 689,
+		"ips": 692,
 		"common": 7
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41792,
+		"ips": 41821,
 		"common": 254
 	},
 	{
@@ -138,22 +138,28 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1193,
-		"common": 16
+		"ips": 1189,
+		"common": 17
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15216,
-		"common": 265
+		"ips": 15201,
+		"common": 266
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5187,
-		"common": 99
+		"ips": 5198,
+		"common": 100
 	},
 	{
 		"name": "botvrij_dst",
@@ -194,74 +200,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2658,
-		"common": 63
+		"ips": 2647,
+		"common": 74
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29775,
-		"common": 844
+		"ips": 29829,
+		"common": 850
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 105163,
-		"common": 2652
+		"ips": 105204,
+		"common": 2657
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 60604,
-		"common": 1926
+		"ips": 60614,
+		"common": 1930
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 686,
-		"common": 15
+		"ips": 680,
+		"common": 16
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1272,
-		"common": 40
+		"ips": 1271,
+		"common": 41
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 22430,
-		"common": 813
+		"common": 815
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 6073,
-		"common": 272
+		"ips": 6070,
+		"common": 274
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 49
+		"common": 60
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34716,
-		"common": 845
+		"ips": 34778,
+		"common": 849
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 133394,
-		"common": 2731
+		"ips": 133450,
+		"common": 2735
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 75297,
-		"common": 1962
+		"ips": 75315,
+		"common": 1965
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -302,7 +308,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6887,
+		"ips": 6897,
 		"common": 9
 	},
 	{
@@ -320,8 +326,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338175,
-		"common": 3431
+		"ips": 338180,
+		"common": 3433
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -434,19 +440,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36971,
-		"common": 886
+		"ips": 37035,
+		"common": 892
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 253561,
-		"common": 3124
+		"ips": 253643,
+		"common": 3128
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52062,
+		"ips": 52130,
 		"common": 3699
 	},
 	{
@@ -458,20 +464,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45635,
+		"ips": 45629,
 		"common": 576
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125979,
+		"ips": 125976,
 		"common": 138
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619282,
-		"common": 828
+		"ips": 9619296,
+		"common": 829
 	},
 	{
 		"name": "firehol_proxies",
@@ -518,7 +524,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2279,
+		"ips": 2275,
 		"common": 73
 	},
 	{
@@ -1022,7 +1028,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5042,
+		"ips": 5041,
 		"common": 2
 	},
 	{
@@ -1322,7 +1328,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 120,
+		"ips": 119,
 		"common": 3
 	},
 	{
@@ -1334,7 +1340,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 199,
+		"ips": 198,
 		"common": 5
 	}
 ]
