@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 335,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bogons",
@@ -45,7 +45,13 @@
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 9
+		"common": 8
+	},
+	{
+		"name": "iblocklist_iana_multicast",
+		"category": "unroutable",
+		"ips": 268435456,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_iana_reserved",
