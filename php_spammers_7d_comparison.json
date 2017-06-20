@@ -26,25 +26,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37100,
+		"ips": 37211,
 		"common": 131
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 763,
+		"ips": 765,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2273,
+		"ips": 2295,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20318,
+		"ips": 20338,
 		"common": 130
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41945,
+		"ips": 41944,
 		"common": 6
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16780,
+		"ips": 16787,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338456,
+		"ips": 338465,
 		"common": 71
 	},
 	{
@@ -242,19 +242,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46075,
+		"ips": 46186,
 		"common": 131
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125238,
+		"ips": 125240,
 		"common": 19
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619475,
+		"ips": 9619483,
 		"common": 25
 	},
 	{
@@ -392,8 +392,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28527,
-		"common": 108
+		"ips": 28329,
+		"common": 107
 	},
 	{
 		"name": "packetmail",
@@ -776,7 +776,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9402,
+		"ips": 9403,
 		"common": 4
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 968,
+		"ips": 964,
 		"common": 2
 	},
 	{
@@ -800,7 +800,13 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1213,
+		"ips": 1212,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 382,
+		"common": 1
 	}
 ]

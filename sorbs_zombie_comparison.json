@@ -2,19 +2,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37100,
+		"ips": 37211,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20318,
+		"ips": 20338,
 		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 41945,
+		"ips": 41944,
 		"common": 2
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338456,
+		"ips": 338465,
 		"common": 1
 	},
 	{
@@ -74,25 +74,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152240,
+		"ips": 653152245,
 		"common": 723968
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46075,
+		"ips": 46186,
 		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125238,
+		"ips": 125240,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619475,
+		"ips": 9619483,
 		"common": 527364
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28527,
+		"ips": 28329,
 		"common": 1
 	},
 	{
@@ -243,6 +243,12 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 536964,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 450,
 		"common": 1
 	}
 ]
