@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 321,
-		"common": 70
+		"ips": 340,
+		"common": 73
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -236,26 +236,26 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6058,
-		"common": 1412
+		"ips": 6074,
+		"common": 1415
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7547,
-		"common": 1463
+		"ips": 7544,
+		"common": 1462
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25857,
+		"ips": 25859,
 		"common": 2835
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11703,
-		"common": 1701
+		"ips": 11699,
+		"common": 1699
 	},
 	{
 		"name": "blocklist_de",
@@ -596,13 +596,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19215,
+		"ips": 19235,
 		"common": 354
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16805,
+		"ips": 16830,
 		"common": 184
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338673,
+		"ips": 338690,
 		"common": 8642
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152229,
-		"common": 19580
+		"ips": 653152248,
+		"common": 19583
 	},
 	{
 		"name": "firehol_level2",
@@ -1248,16 +1248,28 @@
 		"common": 1810
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 57,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 630,
-		"common": 28
+		"ips": 648,
+		"common": 29
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 198,
-		"common": 1
+		"ips": 216,
+		"common": 2
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -1316,8 +1328,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26381,
-		"common": 314
+		"ips": 26697,
+		"common": 313
 	},
 	{
 		"name": "nt_malware_dns",

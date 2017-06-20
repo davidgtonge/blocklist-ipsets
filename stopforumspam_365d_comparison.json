@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 321,
+		"ips": 340,
 		"common": 1
 	},
 	{
@@ -122,26 +122,26 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6058,
-		"common": 19
+		"ips": 6074,
+		"common": 20
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7547,
-		"common": 25
+		"ips": 7544,
+		"common": 26
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25857,
-		"common": 80
+		"ips": 25859,
+		"common": 81
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11703,
-		"common": 45
+		"ips": 11699,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de",
@@ -201,7 +201,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 41904,
-		"common": 2150
+		"common": 2152
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -470,13 +470,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19215,
+		"ips": 19235,
 		"common": 345
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16805,
+		"ips": 16830,
 		"common": 330
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338673,
-		"common": 23917
+		"ips": 338690,
+		"common": 23919
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -800,7 +800,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152229,
+		"ips": 653152248,
 		"common": 9886
 	},
 	{
@@ -819,7 +819,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9619430,
-		"common": 16236
+		"common": 16238
 	},
 	{
 		"name": "firehol_proxies",
@@ -1188,15 +1188,27 @@
 		"common": 4
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 57,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 630,
+		"ips": 648,
 		"common": 55
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 198,
+		"ips": 216,
 		"common": 18
 	},
 	{
@@ -1244,8 +1256,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26381,
-		"common": 699
+		"ips": 26697,
+		"common": 706
 	},
 	{
 		"name": "nt_malware_http",
