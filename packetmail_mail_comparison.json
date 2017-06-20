@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 42022,
+		"ips": 41977,
 		"common": 2
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619576,
+		"ips": 9619523,
 		"common": 2
 	},
 	{
@@ -446,13 +446,19 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 13196,
+		"ips": 13299,
 		"common": 1
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 341,
 		"common": 1
 	}
 ]
