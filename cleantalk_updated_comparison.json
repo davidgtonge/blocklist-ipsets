@@ -296,7 +296,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49128,
+		"ips": 49130,
 		"common": 17
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52117,
+		"ips": 52113,
 		"common": 217
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38901,
+		"ips": 38897,
 		"common": 179
 	},
 	{
@@ -386,8 +386,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34742914,
-		"common": 495
+		"ips": 34743034,
+		"common": 498
 	},
 	{
 		"name": "gofferje_sip",
@@ -584,8 +584,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 7348,
-		"common": 25
+		"ips": 7376,
+		"common": 31
 	},
 	{
 		"name": "nixspam",
@@ -846,21 +846,27 @@
 		"common": 32
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1685,
+		"ips": 1688,
 		"common": 24
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23069,
+		"ips": 23065,
 		"common": 36
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 10955,
+		"ips": 10956,
 		"common": 27
 	},
 	{
@@ -909,7 +915,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1034,13 +1040,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
-		"common": 2
+		"ips": 220,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 267,
 		"common": 2
 	},
 	{

@@ -158,25 +158,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6115,
+		"ips": 6102,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7563,
+		"ips": 7556,
 		"common": 12
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25865,
+		"ips": 25868,
 		"common": 26
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11701,
+		"ips": 11703,
 		"common": 16
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49128,
+		"ips": 49130,
 		"common": 14
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52117,
+		"ips": 52113,
 		"common": 525
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38901,
+		"ips": 38897,
 		"common": 124
 	},
 	{
@@ -680,8 +680,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34742914,
-		"common": 8635
+		"ips": 34743034,
+		"common": 8634
 	},
 	{
 		"name": "gofferje_sip",
@@ -1082,7 +1082,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 7348,
+		"ips": 7376,
 		"common": 6
 	},
 	{
@@ -1346,7 +1346,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23069,
+		"ips": 23065,
 		"common": 3
 	},
 	{
@@ -1526,7 +1526,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 220,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 267,
 		"common": 2
 	},
 	{

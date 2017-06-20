@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 49128,
+		"ips": 49130,
 		"common": 32
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52117,
+		"ips": 52113,
 		"common": 112
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38901,
+		"ips": 38897,
 		"common": 112
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34742914,
-		"common": 28
+		"ips": 34743034,
+		"common": 29
 	},
 	{
 		"name": "gofferje_sip",
@@ -530,8 +530,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 7348,
-		"common": 17
+		"ips": 7376,
+		"common": 18
 	},
 	{
 		"name": "nixspam",
@@ -740,19 +740,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1685,
+		"ips": 1688,
 		"common": 48
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 23069,
+		"ips": 23065,
 		"common": 100
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 10955,
+		"ips": 10956,
 		"common": 71
 	},
 	{
@@ -908,8 +908,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
-		"common": 3
+		"ips": 220,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 267,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
