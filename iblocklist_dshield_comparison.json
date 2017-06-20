@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36914,
+		"ips": 36847,
 		"common": 2
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338267,
+		"ips": 338279,
 		"common": 3
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45878,
+		"ips": 45811,
 		"common": 257
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38916,
+		"ips": 38919,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095884,
+		"ips": 1095886,
 		"common": 512
 	},
 	{
@@ -506,7 +506,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 328,
+		"ips": 311,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	},
 	{
