@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37972,
+		"ips": 38184,
 		"common": 113
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 776,
+		"ips": 777,
 		"common": 37
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20546,
+		"ips": 20673,
 		"common": 76
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 44893,
+		"ips": 45425,
 		"common": 102
 	},
 	{
@@ -90,21 +90,27 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1092,
-		"common": 23
+		"ips": 1055,
+		"common": 24
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15220,
-		"common": 442
+		"ips": 15217,
+		"common": 441
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5218,
+		"ips": 5220,
 		"common": 140
 	},
 	{
@@ -176,7 +182,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6913,
+		"ips": 6910,
 		"common": 3
 	},
 	{
@@ -230,7 +236,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38089,
+		"ips": 38177,
 		"common": 740
 	},
 	{
@@ -242,13 +248,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52113,
+		"ips": 52149,
 		"common": 2751
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46299,
+		"ips": 46518,
 		"common": 113
 	},
 	{
@@ -260,8 +266,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9622377,
-		"common": 472
+		"ips": 9622894,
+		"common": 471
 	},
 	{
 		"name": "firehol_proxies",
@@ -470,8 +476,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39378,
-		"common": 13
+		"ips": 39121,
+		"common": 12
 	},
 	{
 		"name": "nullsecure",
@@ -836,8 +842,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6032,
-		"common": 124
+		"ips": 6179,
+		"common": 125
 	},
 	{
 		"name": "stopforumspam_30d",

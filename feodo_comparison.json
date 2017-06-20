@@ -20,19 +20,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37972,
+		"ips": 38184,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 412,
+		"ips": 416,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14907,
+		"ips": 14963,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38089,
+		"ips": 38177,
 		"common": 2
 	},
 	{
@@ -128,19 +128,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52113,
+		"ips": 52149,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152238,
+		"ips": 653152239,
 		"common": 905
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46299,
+		"ips": 46518,
 		"common": 2
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9622377,
+		"ips": 9622894,
 		"common": 4
 	},
 	{
@@ -300,6 +300,12 @@
 		"common": 3
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39121,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -392,7 +398,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6032,
+		"ips": 6179,
 		"common": 1
 	},
 	{
