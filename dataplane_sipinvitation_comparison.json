@@ -3,12 +3,12 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32014,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36721,
+		"ips": 36807,
 		"common": 1
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 390,
+		"ips": 393,
 		"common": 2
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45685,
+		"ips": 45771,
 		"common": 1
 	},
 	{
@@ -111,7 +111,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095884,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -174,15 +174,21 @@
 		"common": 2
 	},
 	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 13196,
+		"common": 1
+	},
+	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28098,
-		"common": 15
+		"common": 16
 	}
 ]
