@@ -26,25 +26,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42605,
+		"ips": 42677,
 		"common": 132
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 783,
+		"ips": 782,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1981,
+		"ips": 1965,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24465,
+		"ips": 24557,
 		"common": 129
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51237,
+		"ips": 51309,
 		"common": 132
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3612,
+		"ips": 3655,
 		"common": 1
 	},
 	{
@@ -794,7 +794,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 275,
+		"ips": 240,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 127,
+		"common": 3
 	}
 ]

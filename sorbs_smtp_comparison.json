@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42605,
+		"ips": 42677,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24465,
+		"ips": 24557,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51237,
+		"ips": 51309,
 		"common": 1
 	},
 	{
@@ -394,6 +394,12 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 2
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3655,
+		"common": 1
 	},
 	{
 		"name": "packetmail_carisirt",

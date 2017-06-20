@@ -116,25 +116,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42605,
+		"ips": 42677,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9472,
+		"ips": 9463,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24465,
+		"ips": 24557,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15519,
+		"ips": 15518,
 		"common": 4
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51237,
+		"ips": 51309,
 		"common": 24
 	},
 	{
@@ -806,8 +806,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3612,
-		"common": 5
+		"ips": 3655,
+		"common": 6
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -1180,6 +1180,12 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 61
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 127,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",

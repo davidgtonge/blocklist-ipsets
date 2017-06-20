@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 42605,
+		"ips": 42677,
 		"common": 9
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 51237,
+		"ips": 51309,
 		"common": 15
 	},
 	{
@@ -292,6 +292,12 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 6
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3655,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -392,37 +398,25 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 58,
+		"ips": 60,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 176,
 		"common": 6
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 275,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 114,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_unspecified",
-		"category": "attacks",
-		"ips": 185,
-		"common": 1
+		"ips": 113,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 87,
+		"ips": 89,
 		"common": 1
 	},
 	{
