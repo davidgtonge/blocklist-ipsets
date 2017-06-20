@@ -74,19 +74,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37044,
+		"ips": 37111,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9305,
+		"ips": 9301,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 250,
+		"ips": 251,
 		"common": 10
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338395,
+		"ips": 338404,
 		"common": 1
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52029,
+		"ips": 52023,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46014,
+		"ips": 46083,
 		"common": 67
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38888,
+		"ips": 38882,
 		"common": 1
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2370,
-		"common": 17
+		"ips": 2410,
+		"common": 19
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -518,19 +518,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 231,
+		"ips": 232,
 		"common": 6
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 340,
-		"common": 3
+		"ips": 342,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 374,
+		"ips": 379,
 		"common": 2
 	},
 	{
@@ -546,10 +546,16 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 446,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 173,
-		"common": 39
+		"ips": 170,
+		"common": 41
 	},
 	{
 		"name": "urandomusto_vnc",
