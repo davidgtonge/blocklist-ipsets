@@ -146,55 +146,55 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2529,
-		"common": 46
+		"ips": 2538,
+		"common": 44
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29700,
-		"common": 921
+		"ips": 29826,
+		"common": 924
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 106228,
+		"ips": 106265,
 		"common": 2153
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 61265,
+		"ips": 61339,
 		"common": 1596
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22363,
+		"ips": 22372,
 		"common": 40
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 46
+		"common": 44
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 34935,
-		"common": 931
+		"ips": 35070,
+		"common": 934
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 135447,
+		"ips": 135503,
 		"common": 2209
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 76346,
+		"ips": 76439,
 		"common": 1644
 	},
 	{
@@ -224,13 +224,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337916,
+		"ips": 337872,
 		"common": 1875
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311945,
+		"ips": 311944,
 		"common": 318
 	},
 	{
@@ -326,13 +326,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38464,
-		"common": 950
+		"ips": 38600,
+		"common": 952
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 255012,
+		"ips": 255065,
 		"common": 2886
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125725,
+		"ips": 125726,
 		"common": 97
 	},
 	{
@@ -608,8 +608,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34688,
-		"common": 8
+		"ips": 33507,
+		"common": 9
 	},
 	{
 		"name": "nullsecure",
@@ -1004,7 +1004,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7153,
+		"ips": 7154,
 		"common": 2
 	},
 	{
@@ -1012,6 +1012,18 @@
 		"category": "reputation",
 		"ips": 29559,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 295,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 140,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
