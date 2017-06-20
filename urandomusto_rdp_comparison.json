@@ -38,7 +38,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25818,
+		"ips": 25812,
 		"common": 1
 	},
 	{
@@ -171,7 +171,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 125186,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "firehol_level4",
@@ -207,7 +207,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -234,12 +234,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
@@ -255,7 +249,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689830,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level2",
@@ -267,7 +261,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -303,7 +297,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2370,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -315,7 +309,7 @@
 		"name": "shunlist",
 		"category": "attacks",
 		"ips": 500,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
@@ -351,7 +345,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 13196,
-		"common": 32
+		"common": 31
 	},
 	{
 		"name": "threatcrowd",
@@ -369,7 +363,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 52
+		"common": 49
 	},
 	{
 		"name": "urandomusto_smb",
@@ -378,9 +372,21 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 448,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 168,
+		"ips": 173,
 		"common": 1
 	},
 	{
