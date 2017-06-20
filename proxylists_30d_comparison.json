@@ -44,49 +44,49 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6111,
+		"ips": 6119,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7565,
+		"ips": 7568,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25858,
+		"ips": 25854,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11699,
+		"ips": 11696,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39148,
+		"ips": 39383,
 		"common": 170
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 774,
+		"ips": 779,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2040,
+		"ips": 2045,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21529,
+		"ips": 21681,
 		"common": 121
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47975,
+		"ips": 47987,
 		"common": 147
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338477,
+		"ips": 338408,
 		"common": 2903
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38212,
+		"ips": 38280,
 		"common": 1049
 	},
 	{
@@ -362,13 +362,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152256,
+		"ips": 653152257,
 		"common": 7
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47474,
+		"ips": 47707,
 		"common": 171
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625364,
+		"ips": 9625376,
 		"common": 673
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38609,
+		"ips": 38666,
 		"common": 12
 	},
 	{
@@ -1028,8 +1028,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6314,
-		"common": 158
+		"ips": 6430,
+		"common": 160
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1076,8 +1076,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 271,
+		"ips": 299,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 137,
+		"common": 2
 	},
 	{
 		"name": "xroxy",

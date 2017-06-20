@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39148,
+		"ips": 39383,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15004,
+		"ips": 15056,
 		"common": 2
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338477,
+		"ips": 338408,
 		"common": 9
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38212,
+		"ips": 38280,
 		"common": 7
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152256,
+		"ips": 653152257,
 		"common": 668
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47474,
+		"ips": 47707,
 		"common": 3
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625364,
+		"ips": 9625376,
 		"common": 37
 	},
 	{
@@ -720,6 +720,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38666,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -758,7 +764,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11847,
+		"ips": 11848,
 		"common": 125
 	},
 	{
@@ -770,7 +776,7 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 67,
+		"ips": 68,
 		"common": 22
 	},
 	{
@@ -878,7 +884,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6314,
+		"ips": 6430,
 		"common": 3
 	},
 	{
