@@ -50,8 +50,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 348,
-		"common": 60
+		"ips": 344,
+		"common": 57
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 990,
+		"ips": 993,
 		"common": 3
 	},
 	{
@@ -312,46 +312,58 @@
 		"common": 1225
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2516,
+		"common": 2
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29951,
-		"common": 27
+		"ips": 29960,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 106312,
+		"ips": 106351,
 		"common": 160
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 61342,
-		"common": 93
+		"ips": 61400,
+		"common": 94
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 22350,
+		"ips": 22358,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35173,
-		"common": 27
+		"ips": 35131,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 135646,
+		"ips": 135708,
 		"common": 214
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 76446,
-		"common": 111
+		"ips": 76541,
+		"common": 112
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -380,13 +392,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 19405,
+		"ips": 19439,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16965,
+		"ips": 17004,
 		"common": 2
 	},
 	{
@@ -410,7 +422,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 337457,
+		"ips": 337434,
 		"common": 12
 	},
 	{
@@ -530,13 +542,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38801,
-		"common": 31
+		"ips": 38809,
+		"common": 32
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 255152,
+		"ips": 254829,
 		"common": 227
 	},
 	{
@@ -578,7 +590,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 29926,
+		"ips": 29924,
 		"common": 100
 	},
 	{
@@ -1130,7 +1142,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 157,
+		"ips": 155,
 		"common": 16
 	},
 	{
