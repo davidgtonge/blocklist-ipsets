@@ -182,8 +182,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 387,
-		"common": 17
+		"ips": 385,
+		"common": 15
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -332,7 +332,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 48114,
+		"ips": 48118,
 		"common": 804
 	},
 	{
@@ -390,21 +390,27 @@
 		"common": 5
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1098,
+		"ips": 1097,
 		"common": 48
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15210,
+		"ips": 15209,
 		"common": 408
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5252,
+		"ips": 5250,
 		"common": 160
 	},
 	{
@@ -614,8 +620,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6948,
-		"common": 466
+		"ips": 6949,
+		"common": 465
 	},
 	{
 		"name": "dragon_http",
@@ -638,7 +644,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 338036,
+		"ips": 338009,
 		"common": 3386
 	},
 	{
@@ -890,7 +896,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38366,
+		"ips": 38372,
 		"common": 1096
 	},
 	{
@@ -902,8 +908,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52193,
-		"common": 1813
+		"ips": 52227,
+		"common": 1814
 	},
 	{
 		"name": "firehol_level1",
@@ -914,7 +920,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 48838,
+		"ips": 48840,
 		"common": 2280
 	},
 	{
@@ -926,7 +932,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625506,
+		"ips": 9625510,
 		"common": 921427
 	},
 	{
@@ -944,8 +950,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34743034,
-		"common": 5041788
+		"ips": 34743033,
+		"common": 5041780
 	},
 	{
 		"name": "fullbogons",
@@ -974,8 +980,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1689,
-		"common": 80
+		"ips": 1683,
+		"common": 79
 	},
 	{
 		"name": "haley_ssh",
@@ -992,8 +998,8 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 25977,
-		"common": 1280
+		"ips": 25997,
+		"common": 1268
 	},
 	{
 		"name": "hphosts_exp",
@@ -2132,7 +2138,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 131,
+		"ips": 129,
 		"common": 6
 	},
 	{
