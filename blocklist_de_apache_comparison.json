@@ -326,7 +326,7 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 88,
+		"ips": 87,
 		"common": 1
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 466,
+		"ips": 470,
 		"common": 1
 	},
 	{
@@ -762,6 +762,12 @@
 		"common": 113
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38842,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -926,7 +932,7 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 288999,
+		"ips": 289034,
 		"common": 213
 	},
 	{
@@ -944,8 +950,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 536964,
-		"common": 436
+		"ips": 536755,
+		"common": 434
 	},
 	{
 		"name": "stopforumspam_7d",
