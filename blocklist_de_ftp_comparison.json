@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 705,
+		"ips": 704,
 		"common": 3
 	},
 	{
@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 37605,
-		"common": 409
+		"ips": 37744,
+		"common": 411
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -69,7 +69,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 44344,
-		"common": 61
+		"common": 57
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -99,7 +99,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "botscout_30d",
@@ -129,25 +129,25 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2584,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 30077,
-		"common": 142
+		"common": 144
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 105891,
-		"common": 178
+		"common": 180
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 61030,
-		"common": 168
+		"common": 170
 	},
 	{
 		"name": "cleantalk_new",
@@ -165,37 +165,37 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 22363,
-		"common": 89
+		"common": 90
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 6035,
-		"common": 78
+		"common": 79
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 35396,
-		"common": 130
+		"common": 132
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 134851,
-		"common": 177
+		"common": 179
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 75987,
-		"common": 164
+		"common": 166
 	},
 	{
 		"name": "cybercrime",
@@ -278,14 +278,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38285,
-		"common": 145
+		"ips": 38283,
+		"common": 147
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 254568,
-		"common": 190
+		"common": 192
 	},
 	{
 		"name": "firehol_level1",
@@ -296,20 +296,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45590,
-		"common": 409
+		"ips": 45729,
+		"common": 411
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 125341,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9621843,
-		"common": 70
+		"common": 66
 	},
 	{
 		"name": "firehol_webclient",
@@ -321,7 +321,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34742914,
-		"common": 58
+		"common": 56
 	},
 	{
 		"name": "gofferje_sip",
@@ -332,8 +332,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1154,
-		"common": 52
+		"ips": 1153,
+		"common": 54
 	},
 	{
 		"name": "haley_ssh",
@@ -345,13 +345,13 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25977,
-		"common": 13
+		"common": 11
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 28412,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -387,13 +387,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -477,7 +477,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 18
+		"common": 20
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -555,24 +555,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29559,
-		"common": 15
+		"common": 17
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 230,
-		"common": 59
+		"common": 56
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 28098,
 		"common": 2
-	},
-	{
-		"name": "vxvault",
-		"category": "malware",
-		"ips": 70,
-		"common": 1
 	}
 ]
