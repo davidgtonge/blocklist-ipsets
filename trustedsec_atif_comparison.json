@@ -320,8 +320,8 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 93,
-		"common": 14
+		"ips": 95,
+		"common": 15
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -742,6 +742,12 @@
 		"category": "anonymizers",
 		"ips": 455,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 34379,
+		"common": 2
 	},
 	{
 		"name": "nt_ssh_7d",
