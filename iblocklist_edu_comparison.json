@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 42047,
+		"ips": 42039,
 		"common": 369
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 196,
+		"ips": 198,
 		"common": 35
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 387,
+		"ips": 385,
 		"common": 8
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 462,
+		"ips": 463,
 		"common": 9
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52099,
+		"ips": 52100,
 		"common": 1087
 	},
 	{
@@ -830,13 +830,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9619597,
+		"ips": 9619589,
 		"common": 179526
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 38877,
+		"ips": 38879,
 		"common": 890
 	},
 	{
@@ -1554,15 +1554,9 @@
 		"common": 59
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1724,
+		"ips": 1725,
 		"common": 19
 	},
 	{
@@ -1574,7 +1568,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 11146,
+		"ips": 11113,
 		"common": 69
 	},
 	{
@@ -1647,24 +1641,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 634,
+		"ips": 630,
 		"common": 8
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4190,
+		"ips": 4192,
 		"common": 292
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1594,
+		"ips": 1596,
 		"common": 22
 	},
 	{
@@ -1736,7 +1730,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 964,
+		"ips": 965,
 		"common": 35
 	},
 	{
@@ -1748,7 +1742,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1212,
+		"ips": 1213,
 		"common": 40
 	},
 	{
