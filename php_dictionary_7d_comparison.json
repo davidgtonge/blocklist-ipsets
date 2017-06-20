@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 44379,
+		"ips": 44381,
 		"common": 4
 	},
 	{
@@ -66,9 +66,15 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 59,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1105,
+		"ips": 1092,
 		"common": 5
 	},
 	{
@@ -80,7 +86,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5217,
+		"ips": 5218,
 		"common": 12
 	},
 	{
@@ -218,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38139,
+		"ips": 38137,
 		"common": 142
 	},
 	{
@@ -230,13 +236,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 52065,
+		"ips": 52108,
 		"common": 129
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45729,
+		"ips": 46069,
 		"common": 153
 	},
 	{
@@ -273,6 +279,12 @@
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3528,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1656,
 		"common": 1
 	},
 	{
@@ -370,12 +382,6 @@
 		"category": "abuse",
 		"ips": 7348,
 		"common": 16
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 34379,
-		"common": 50
 	},
 	{
 		"name": "packetmail",

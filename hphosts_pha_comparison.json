@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 44379,
+		"ips": 44381,
 		"common": 6
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1105,
+		"ips": 1092,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5217,
+		"ips": 5218,
 		"common": 1
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38139,
+		"ips": 38137,
 		"common": 4
 	},
 	{
@@ -326,14 +326,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 653152251,
-		"common": 59
+		"ips": 653152252,
+		"common": 60
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 45729,
-		"common": 2
+		"ips": 46069,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
@@ -370,6 +370,12 @@
 		"category": "attacks",
 		"ips": 1095886,
 		"common": 21
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1656,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -614,14 +620,14 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11847,
-		"common": 3
+		"ips": 11848,
+		"common": 4
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 67,
-		"common": 2
+		"ips": 68,
+		"common": 3
 	},
 	{
 		"name": "snort_ipfilter",
