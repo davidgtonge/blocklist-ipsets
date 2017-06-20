@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 39085,
-		"common": 180
+		"ips": 39148,
+		"common": 178
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 47971,
-		"common": 65
+		"ips": 47975,
+		"common": 64
 	},
 	{
 		"name": "bruteforceblocker",
@@ -105,7 +105,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 26318,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -176,26 +176,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47414,
-		"common": 180
+		"ips": 47474,
+		"common": 178
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 125379,
+		"ips": 125380,
 		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9625359,
-		"common": 73
+		"ips": 9625364,
+		"common": 72
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 29926,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
@@ -346,6 +346,12 @@
 		"category": "spam",
 		"ips": 1174483,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38609,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
